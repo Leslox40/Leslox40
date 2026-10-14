@@ -28,6 +28,18 @@ I design and ship full-stack systems end to end, from architecture and APIs to f
 | **Eze** | Scientific social network and e-learning platform for researchers in 8+ African countries, with a library of 10,000+ resources | Next.js, TypeScript, Prisma, MySQL, MongoDB, Moodle |
 | **FarmAdwiz** | Government agricultural platform serving 15,000+ farmers | React, Node.js, PostgreSQL, Docker |
 
+### Strengths
+
+- **Modernizing legacy systems:** I upgrade aging codebases and architectures without stopping feature delivery.
+- **System architecture:** I design microservice, event-driven, and offline-first systems that scale to thousands of concurrent users.
+- **Technical leadership:** I lead cross-functional teams, own work end to end across several projects, and deliver on time.
+- **Business impact:** I measure my work by outcomes such as faster delivery, lower costs, and higher conversion.
+- **Stakeholder alignment:** I work directly with founders, CTOs, product owners, and clients to set priorities and define the target customer.
+- **Mentorship:** I've mentored junior engineers and interns, and I coach through code review.
+- **Domain range:** fintech, SaaS, field-sales automation, agritech, e-learning, and social platforms.
+- **Building for African markets:** I build for low-connectivity conditions and for users in 8+ countries.
+- **Bilingual:** I work natively in both English and French.
+
 ### Tech
 
 **Languages and frameworks:** TypeScript, JavaScript, Python, PHP · React, Next.js, Redux, React Native, Node.js, Express, Django, Flask
